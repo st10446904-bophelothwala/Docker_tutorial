@@ -1,6 +1,6 @@
 #Each dockerfile command below are layers
 
-FROM node:22
+FROM node:16er
 
 WORKDIR /app
 
